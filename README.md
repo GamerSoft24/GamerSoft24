@@ -12,3 +12,9 @@
     <img src="https://komarev.com/ghpvc/?username=GamerSoft24&color=red&style=for-the-badge" alt="Profile Views" /> 
   </a>
 </p>
+
+<p align="center">
+  <a href="https://discord.com/users/1023511883535372289">
+     <img src="https://discord.c99.nl/widget/theme-3/1023511883535372289.png" alt="GamerSoft24#6663 ( 1023511883535372289 )"/>
+       </a>
+</p>
