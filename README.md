@@ -1,7 +1,7 @@
-# 👋 Hi there! I’m @GamerSoft24.
+# 👋 Hi there! I’m GoldenDestructor [(@GamerSoft24)](https://github.com/GamerSoft24).
 - 🔭 I'm currently working on my repository, `/GamerSoft24/Software` Link URL: https://github.com/GamerSoft24/Software.
 - 👀 I’m interested in coding, gaming and technology stuff.
-- 🌱 I own Midnight_G0ldX Corporation®.
+- 🌱 I own [Midnight_G0ldX Corporation®](https://github.com/MidnightG0ldX-Corporation).
 - 💞️ I’m collaborating with Okmeque1 [(@Okmeque1)](https://github.com/Okmeque1) and GS-ST [(@GS-ST)](https://Github.com/GS-ST) as it is my and Okmeque1's shared account.
 - 💬 Ask me if you want to change my repositories or just pull request it.
 - 📫 Reach me by email: gamersoftware.corp@gmail.com.
